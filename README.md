@@ -66,6 +66,10 @@ Here is a brief overview of the code files used in this project:
 - `AmazonCleanMapper.java`: New Mapper class for cleaning Amazon reviews.
 - `AmazonCleanReducer.java`: New Reducer class for cleaning Amazon reviews.
 
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ### Sentiment Analysis
 
 - `AmazonSentimentAnalysis.java`: Main driver for sentiment analysis on Amazon reviews.
