@@ -56,7 +56,6 @@ Here is a brief overview of the code files used in this project:
 - `UniqueRecsReducer.java`: Reducer class that finds out exploratory information of the Amazon dataset. 
 - `FirstCode.scala`: Scala file that contains code on calculating mean, median, mode, standard deviation, and some data cleaning. 
 
-
 ### Data Cleaning
 
 - `Clean.java`: Original Main driver for data cleaning on Amazon reviews.
@@ -66,12 +65,12 @@ Here is a brief overview of the code files used in this project:
 - `AmazonCleanMapper.java`: New Mapper class for cleaning Amazon reviews.
 - `AmazonCleanReducer.java`: New Reducer class for cleaning Amazon reviews.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Sentiment Analysis
 
 - `AmazonSentimentAnalysis.java`: Main driver for sentiment analysis on Amazon reviews.
 - `AmazonSentimentMapper.java`: Mapper class for sentiment analysis on Amazon reviews.
 - `AmazonSentimentReducer.java`: Reducer class for sentiment analysis on Amazon reviews.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
